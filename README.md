@@ -2,6 +2,11 @@
 
 **Author**: Sheikh Belayet Mahmood | **GitHub**: [@Belayet-Sheikh](https://github.com/Belayet-Sheikh) | **Date**: June 2025
 
+**Banks lose millions annually due to loan defaults**, but traditional credit scoring often:  
+- Fails to identify high-risk borrowers (low recall)  
+- Over-rejects creditworthy applicants (low precision)  
+
+This project automate the above process useing machine learning (**Logistic Regression, Random Forest, Decision Tree**) to predict defaults more accurately by analyzing income, loan terms, and credit history.  
 
 ## 📌 Overview
 A machine learning model that predicts loan default risk using:
@@ -31,10 +36,5 @@ A machine learning model that predicts loan default risk using:
 While Logistic Regression achieved highest accuracy, its **low recall (0.37)** means it misses 63% of actual defaults.
 
 
-## 🛠 Installation
-```bash
-# Clone repository
-git clone https://github.com/Belayet-Sheikh/Credit-Scoring-Model.git
-
-# Install dependencies
-pip install -r requirements.txt
+## 📄 Full Report
+[Download PDF]([https://yourusername.github.io/Credit-Scoring-Model/credit_scoring_report.pdf](https://github.com/Belayet-Sheikh/Credit-Scoring-Model/tree/main/Credit_Scoring%20Model_Portfolio_1%20/Reports))
