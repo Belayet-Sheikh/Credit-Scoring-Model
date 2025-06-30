@@ -37,4 +37,4 @@ While Logistic Regression achieved highest accuracy, its **low recall (0.37)** m
 
 
 ## 📄 Full Report
-[Download PDF]([https://yourusername.github.io/Credit-Scoring-Model/credit_scoring_report.pdf](https://github.com/Belayet-Sheikh/Credit-Scoring-Model/tree/main/Credit_Scoring%20Model_Portfolio_1%20/Reports))
+[Download PDF](https://github.com/Belayet-Sheikh/Credit-Scoring-Model/raw/main/Credit_Scoring%20Model_Portfolio_1/Reports/YourFileName.pdf)
