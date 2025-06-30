@@ -20,12 +20,12 @@ A machine learning model that predicts loan default risk using:
    - Tested 3 algorithms with hyperparameter tuning  
  
 
-## 📊 Performance Summary
-| Model               | Accuracy | Precision | Recall | AUC   |
+## 📊 Performance Summary (For Defaulter)
+| Model               | Accuracy | Precision | Recall | F1   |
 |---------------------|----------|-----------|--------|-------|
-| Logistic Regression | 65.2%    | 0.67      | 0.37   | 0.72  |
-| Random Forest       | 60.0%    | 0.54      | 0.44   | 0.68  |
-| Decision Tree       | 55.2%    | 0.47      | 0.43   | 0.61  |
+| Logistic Regression | 65.2%    | 0.67      | 0.37   | 0.48  |
+| Random Forest       | 60.0%    | 0.54      | 0.44   | 0.48  |
+| Decision Tree       | 55.2%    | 0.47      | 0.43   | 0.45  |
 
 **Key Insight**:  
 While Logistic Regression achieved highest accuracy, its **low recall (0.37)** means it misses 63% of actual defaults.
